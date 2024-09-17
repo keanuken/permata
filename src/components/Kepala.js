@@ -125,7 +125,7 @@ function Kepala() {
               </MenuList>
             </Menu>*/}
           </GridItem>
-          {/* <GridItem
+          <GridItem
             w="100%"
             minW="90"
             h="100%"
@@ -137,7 +137,7 @@ function Kepala() {
                 <Text as="b">Dokumen</Text>
               </Button>
             </ChakraLink>
-          </GridItem> */}
+          </GridItem>
           <GridItem
             w="100%"
             minW="90"

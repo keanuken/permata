@@ -132,7 +132,7 @@ function Home() {
       >
         <Box>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.2332307754625!2d107.61466762844604!3d-6.898626099566974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e64e746df771%3A0x11d6232ba09631e4!2sJl.%20Surapati%20No.21%2C%20Lebakgede%2C%20Kecamatan%20Coblong%2C%20Kota%20Bandung%2C%20Jawa%20Barat%2040132!5e0!3m2!1sid!2sid!4v1709950817850!5m2!1sid!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.7956793414583!2d105.9631024749525!3d-6.022762493962633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418fc28d951eb9%3A0xc6a47367ffbf4624!2sPT.%20Multi%20Grain%20Millers!5e0!3m2!1sen!2sid!4v1726577925283!5m2!1sen!2sid"
             width="600"
             height="300"
             style={{ border: '0' }}
