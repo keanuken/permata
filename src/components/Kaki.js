@@ -58,7 +58,10 @@ function Kaki() {
                 <Text
                   fontSize="sm"
                   onClick={() =>
-                    window.open('https://wa.me/082111977709', '_blank')
+                    window.open(
+                      'https://wa.me/082111977709?text=Halo%20Bapak%20Dzaky,%0A%0ASaya%20mendapatkan%20informasi%20kontak%20Bapak%20dari%20website%20perusahaan%20Anda.%0AJika%20Bapak%20berkenan,%20mohon%20kesediaannya%20untuk%20memberikan%20respon%20terhadap%20pesan%20ini.%0A%0ATerima%20kasih%20atas%20perhatian%20Bapak.%0A%0AHormat%20saya,%0A[Nama%20Anda]',
+                      '_blank'
+                    )
                   }
                   fontWeight="bold"
                   cursor="pointer"
@@ -121,7 +124,10 @@ function Kaki() {
                   fontSize="sm"
                   cursor="pointer"
                   onClick={() =>
-                    window.open('https://wa.me/082111977709', '_blank')
+                    window.open(
+                      'https://wa.me/082111977709?text=Halo%20Bapak%20Dzaky,%0A%0ASaya%20mendapatkan%20informasi%20kontak%20Bapak%20dari%20website%20perusahaan%20Anda.%0AJika%20Bapak%20berkenan,%20mohon%20kesediaannya%20untuk%20memberikan%20respon%20terhadap%20pesan%20ini.%0A%0ATerima%20kasih%20atas%20perhatian%20Bapak.%0A%0AHormat%20saya,%0A[Nama%20Anda]',
+                      '_blank'
+                    )
                   }
                   _hover={{ color: 'gray.500' }}
                 >
@@ -151,7 +157,10 @@ function Kaki() {
                 boxSize="24px"
                 cursor="pointer"
                 onClick={() =>
-                  window.open('https://wa.me/082111977709', '_blank')
+                  window.open(
+                    'https://wa.me/082111977709?text=Halo%20Bapak%20Dzaky,%0A%0ASaya%20mendapatkan%20informasi%20kontak%20Bapak%20dari%20website%20perusahaan%20Anda.%0AJika%20Bapak%20berkenan,%20mohon%20kesediaannya%20untuk%20memberikan%20respon%20terhadap%20pesan%20ini.%0A%0ATerima%20kasih%20atas%20perhatian%20Bapak.%0A%0AHormat%20saya,%0A[Nama%20Anda]',
+                    '_blank'
+                  )
                 }
               />
               <Image src="/assets/img/logo_linkedin.png" boxSize="24px" />
