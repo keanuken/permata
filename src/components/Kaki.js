@@ -193,7 +193,15 @@ function Kaki() {
               Copyright
             </Text>
             <Image src="/assets/img/logo_copyright.svg" boxSize="15px" />
-            <Text fontSize="sm" as="b" color="white">
+            <Text
+              fontSize="sm"
+              as="b"
+              color="white"
+              onClick={() =>
+                window.open('https://wa.me/+62895332012769', '_blank')
+              }
+              cursor="pointer"
+            >
               Axile
             </Text>
           </HStack>
