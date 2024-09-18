@@ -78,8 +78,8 @@ function Proyek() {
             // teks="Lorem ipsum dolor sit amet consectetur. Habitasse sit ultricies turpis leo ut odio sit. Pellentesque sed hendrerit tellus sed duis mauris vel."
           />
           <KartuProyek
-            gambar="/assets/img/carousel4.webp"
-            judul="Scaffolding"
+            gambar="/assets/img/bg-tongkang.png"
+            judul="Bongkar Muat"
             // teks="Lorem ipsum dolor sit amet consectetur. Habitasse sit ultricies turpis leo ut odio sit. Pellentesque sed hendrerit tellus sed duis mauris vel."
           />
         </SimpleGrid>

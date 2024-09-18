@@ -25,7 +25,7 @@ export default function HeroSlider() {
     <Box position={'relative'} width={'full'} overflow={'hidden'}>
       <Slider {...settings}>
         <Hero
-          bgImg="/assets/img/carousel1.webp"
+          bgImg="/assets/img/excavator.png"
           title="Hal Berat Terasa Mudah di Tangan Kami"
           subTitle={
             'Segera hubungi kami untuk konsultasikan permasalahan anda.'
@@ -45,7 +45,7 @@ export default function HeroSlider() {
           tinggi="810"
         />
         <Hero
-          bgImg="/assets/img/carousel3.webp"
+          bgImg="/assets/img/carousel1.webp"
           title=" Bersama Kami, Proyek Lebih Efisien"
           subTitle={
             'Dapatkan layanan terbaik di bidang trucking, konstruksi, dan penyediaan alat berat. Kami siap membantu Anda mencapai hasil maksimal.'

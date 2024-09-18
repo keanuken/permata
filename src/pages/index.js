@@ -45,7 +45,7 @@ function Home() {
               penyediaan alat berat. Dengan dukungan sumber daya unggul, kami
               menjaga kepuasan klien melalui pelayanan terbaik dan profesional.
             </Text>
-            <Link to="/about">
+            <a href="/about">
               <Button
                 colorScheme="red"
                 variant="outline"
@@ -56,7 +56,7 @@ function Home() {
               >
                 Lihat Lebih
               </Button>
-            </Link>
+            </a>
           </Container>
           <Wrap w="Full" justify="center" spacing="20x">
             <WrapItem>
@@ -72,7 +72,7 @@ function Home() {
               >
                 <HStack>
                   <Text as="b" color="red">
-                    200 +
+                    150 +
                   </Text>
                   <Text> Karyawan </Text>
                 </HStack>
@@ -91,7 +91,7 @@ function Home() {
               >
                 <HStack>
                   <Text as="b" color="red">
-                    100 +
+                    17 +
                   </Text>
                   <Text> Alat Berat </Text>
                 </HStack>
@@ -110,9 +110,9 @@ function Home() {
               >
                 <HStack>
                   <Text as="b" color="red">
-                    150 +
+                    60 +
                   </Text>
-                  <Text> Proyek </Text>
+                  <Text> Dump Truck </Text>
                 </HStack>
               </Button>
             </WrapItem>
@@ -132,7 +132,7 @@ function Home() {
       >
         <Box>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.7956793414583!2d105.9631024749525!3d-6.022762493962633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418fc28d951eb9%3A0xc6a47367ffbf4624!2sPT.%20Multi%20Grain%20Millers!5e0!3m2!1sen!2sid!4v1726577925283!5m2!1sen!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.785232875554!2d105.95347847495252!3d-6.024192093961236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4185eb2227f35d%3A0xe6f2bab5d7fd92d!2sPupuk%20Selat%20Sunda.%20PT!5e0!3m2!1sen!2sid!4v1726650173644!5m2!1sen!2sid"
             width="600"
             height="300"
             style={{ border: '0' }}
@@ -187,7 +187,7 @@ function Home() {
               <HpCard>JASA PARIWISATA</HpCard>
             </WrapItem>
           </Wrap>
-          <Link to="/layanan">
+          <a href="/layanan">
             <Button
               colorScheme="red"
               variant="outline"
@@ -198,7 +198,7 @@ function Home() {
             >
               See
             </Button>
-          </Link>
+          </a>
         </VStack>
       </Box>
       <Box
@@ -268,7 +268,13 @@ function Home() {
           alignContent="center"
           justifyContent="center"
         >
-          <Button size="lg" bg="red" color="white" px="10">
+          <Button
+            size="lg"
+            bg="red"
+            color="white"
+            px="10"
+            onClick={() => window.open('https://wa.me/082111977709', '_blank')}
+          >
             Ayo Ngobrol
           </Button>
         </Box>

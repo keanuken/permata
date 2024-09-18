@@ -107,22 +107,22 @@ function Dokumen() {
           <Accordion allowToggle>
             <Akordion
               judul="1. SURAT PERNYATAAN USAHA MIKRO ATAU USAHA KECIL TERKAIT TATA RUANG"
-              teks="Berikut adalah dokumen SURAT PERNYATAAN USAHA MIKRO ATAU USAHA KECIL TERKAIT TATA RUANG, silahkan membuka dengan menekan tombol disebelah kanan."
+              teks="Berikut adalah dokumen SURAT PERNYATAAN USAHA MIKRO ATAU USAHA KECIL TERKAIT TATA RUANG, silahkan membuka dengan menekan tombol disebelah kanan. Untuk Dokumen lebih lengkap silahkan hubungi kami dengan menekan tombol Ayo Ngobrol di beranda. "
               link="https://drive.google.com/file/d/1nTSiGS74gR8QaxnfMkcnaUpIKVyjlxqu/view?usp=sharing"
             />
             <Akordion
-              judul="3. PERNYATAAN MANDIRI Kesediaan Memenuhi Persyaratan Izin"
-              teks="Berikut adalah dokumen PERNYATAAN MANDIRI Kesediaan Memenuhi Persyaratan Izin, silahkan membuka dengan menekan tombol disebelah kanan."
+              judul="2. PERNYATAAN MANDIRI Kesediaan Memenuhi Persyaratan Izin"
+              teks="Berikut adalah dokumen PERNYATAAN MANDIRI Kesediaan Memenuhi Persyaratan Izin, silahkan membuka dengan menekan tombol disebelah kanan. Untuk Dokumen lebih lengkap silahkan hubungi kami dengan menekan tombol Ayo Ngobrol di beranda."
               link="https://drive.google.com/file/d/1a1BPbW1pqeB5Uppo2kf8KDNw_TRXg6Lx/view?usp=sharing"
             />
             <Akordion
-              judul="4. PERIZINAN BERUSAHA BERBASIS RISIKO"
-              teks="Berikut adalah dokumen PERIZINAN BERUSAHA BERBASIS RISIKO, silahkan membuka dengan menekan tombol disebelah kanan."
+              judul="3. PERIZINAN BERUSAHA BERBASIS RISIKO"
+              teks="Berikut adalah dokumen PERIZINAN BERUSAHA BERBASIS RISIKO, silahkan membuka dengan menekan tombol disebelah kanan. Untuk Dokumen lebih lengkap silahkan hubungi kami dengan menekan tombol Ayo Ngobrol di beranda."
               link="https://drive.google.com/file/d/1q9vz9ZtW8l66f7shcS8zLGzvHJpz6jS9/view?usp=sharing"
             />
             <Akordion
-              judul="5. Dokumen PERNYATAAN MANDIRI K3L"
-              teks="Berikut adalah dokumen PERNYATAAN MANDIRI K3L, silahkan membuka dengan menekan tombol disebelah kanan."
+              judul="4. Dokumen PERNYATAAN MANDIRI K3L"
+              teks="Berikut adalah dokumen PERNYATAAN MANDIRI K3L, silahkan membuka dengan menekan tombol disebelah kanan. Untuk Dokumen lebih lengkap silahkan hubungi kami dengan menekan tombol Ayo Ngobrol di beranda."
               link="https://drive.google.com/file/d/1mK__zKNjW1Q5Pityf7KVMIIee6mYE4Cy/view?usp=sharing"
             />
           </Accordion>
